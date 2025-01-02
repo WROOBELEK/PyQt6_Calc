@@ -32,8 +32,6 @@ This project is a multi-functional calculator built with PyQt6, offering a varie
    - First derivative  
    - Second derivative 
 
----
-
 ## Installation
 
 1. Download project files
